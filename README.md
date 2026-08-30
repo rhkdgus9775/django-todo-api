@@ -236,7 +236,6 @@ Django `SECRET_KEY`를 코드에 직접 작성하지 않고 `.env` 파일로 분
 
 ## 개선 가능 사항
 
-- 자동화 테스트 코드 추가
 - PostgreSQL 적용
 - Docker 기반 실행 환경 구성
 - 배포 환경 구축
