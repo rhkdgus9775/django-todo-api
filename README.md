@@ -137,7 +137,7 @@ GET /api/todos/?page=2
 ### 1. 저장소 복제
 
 ```bash
-git clone <저장소 주소>
+git clone <git clone https://github.com/rhkdgus9775/django-todo-api.git>
 cd django-todo-api
 ```
 
